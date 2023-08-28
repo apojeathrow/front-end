@@ -73,7 +73,7 @@ table {
     font-family: 'Inter', sans-serif;
     font-weight: 900;
     font-size: 1.8em;
-    margin: 0 0 0 0.9em;
+    margin: 0.8em 0 0 0.9em;
 }
 
 .span{
@@ -98,7 +98,7 @@ table {
     font-family: 'Inter', sans-serif; font-weight: 300;
     text-decoration: line-through;
     font-size: large;
-    margin: 0 0 1px 10%;
+    margin: 0 0 1px 7%;
 }
 
 .enroll-now{
@@ -135,8 +135,8 @@ table {
 .div2{
     border: 1px solid; border-color: black; 
     width: 23em;
-    margin: 1em 0 0 1.6em;
-    height: 20em;
+    margin: 0.7em 0 0 1.6em;
+    height: 19em;
 }
 
 h4{
@@ -144,7 +144,7 @@ h4{
     margin: 0.8em 0 0 0;
     border-bottom: 1px solid;
     border-bottom-color: black; width: 88%; height: 2em;
-    margin: 0 0 0 0; padding-left: 2em; padding-top: 1em;
+    margin: 0 0 0 0; padding-left: 2em; padding-top: 0.8em; padding-bottom: 0.2em;
 }
 
 .p4{
